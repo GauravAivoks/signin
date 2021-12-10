@@ -1,0 +1,14 @@
+com/signin/MainApplication.java
+ com.signin.MainApplication
+ com.signin.MainApplication$1
+com/signin/BuildConfig.java
+ com.signin.BuildConfig
+com/signin/ReactNativeFlipper.java
+ com.signin.ReactNativeFlipper
+ com.signin.ReactNativeFlipper$1
+ com.signin.ReactNativeFlipper$2
+ com.signin.ReactNativeFlipper$2$1
+com/signin/MainActivity.java
+ com.signin.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
