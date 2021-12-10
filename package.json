@@ -11,9 +11,16 @@
   },
   "dependencies": {
     "@react-native-google-signin/google-signin": "^7.0.1",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
     "react": "17.0.2",
     "react-native": "0.66.3",
-    "react-native-razorpay": "^2.2.8"
+    "react-native-paper": "^4.10.1",
+    "react-native-razorpay": "^2.2.8",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.1",
+    "react-native-status-bar-height": "^2.6.0",
+    "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.16.0",

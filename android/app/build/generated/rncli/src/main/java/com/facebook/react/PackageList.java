@@ -15,6 +15,12 @@ import java.util.ArrayList;
 import com.reactnativegooglesignin.RNGoogleSigninPackage;
 // react-native-razorpay
 import com.razorpay.rn.RazorpayPackage;
+// react-native-safe-area-context
+import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
+// react-native-screens
+import com.swmansion.rnscreens.RNScreensPackage;
+// react-native-vector-icons
+import com.oblador.vectoricons.VectorIconsPackage;
 
 public class PackageList {
   private Application application;
@@ -61,7 +67,10 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new RNGoogleSigninPackage(),
-      new RazorpayPackage()
+      new RazorpayPackage(),
+      new SafeAreaContextPackage(),
+      new RNScreensPackage(),
+      new VectorIconsPackage()
     ));
   }
 }
